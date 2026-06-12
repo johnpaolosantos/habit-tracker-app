@@ -2,6 +2,8 @@
 
 #deployed : https://habit-tracker-app-2r74.vercel.app/
 
+React + TypeScript, TailwindCSS, custom hooks, custom context, components, Vite, date-fns
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
